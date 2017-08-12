@@ -10,8 +10,8 @@ Check environment temperature and humidity with SHT31-D via I2C
 
 ## II. CREDITS:
 
-* <github.com/sfeakes> - adafruit sht31 for raspberry pi code
-* <devel@nagios-plugins.org> - plugin development guidelines
+* github.com/sfeakes - adafruit sht31 for raspberry pi code
+* devel@nagios-plugins.org - plugin development guidelines
 
 ## III. FEATURES:
 
@@ -37,7 +37,7 @@ Check environment temperature and humidity with SHT31-D via I2C
 ## V. GPIO HEADER PINOUT
 
 <img src="https://raw.githubusercontent.com/FrostbyteGR/check_sht31/master/Doc/j8header.png" width="380">
-**NOTES:** If using a Raspberry Pi, connect your sensor to the SDA1/SCL1 pins instead of the SDA0/SCL0 ones, to avoid I2C detection issues.
+NOTE: If using a Raspberry Pi, connect your sensor to the SDA1/SCL1 pins instead of the SDA0/SCL0 ones, to avoid I2C detection issues.
 
 ## VI. INSTALLATION:
 
